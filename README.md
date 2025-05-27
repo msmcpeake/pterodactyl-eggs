@@ -1,1 +1,1 @@
-# pterodactyl-eggs
+# Pterodactyl Eggs
